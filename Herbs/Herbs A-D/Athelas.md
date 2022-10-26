@@ -5,7 +5,7 @@ name: Athelas
 locale: Forest
 climate: Temperate
 availability: Autumn 45%
-abilityCheck: ?
+abilityCheck:
 uses: {Uses}
 value: 200 gp/ 200 gp
 preparation: none

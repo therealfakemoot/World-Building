@@ -5,13 +5,13 @@ fileType: plane
 planeType: Inner plane
 planeAlignment: All
 planeName: Positive Energy Plane
-planeNameAlt: - 
+planeNameAlt:
 planeOrder: 20.1
 ---
 # Positive Energy Plane
 *Plane information for Positive Energy Plane*
 
-**Alternate Name:**  - 
+**Alternate Name:**  -
 **Alignment:**  All
 **Inhabitants:**  Energons
 

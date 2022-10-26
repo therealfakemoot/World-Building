@@ -1,17 +1,17 @@
-
 ---
 cssclass: oRPGPage
 fileType: plane
 planeType: Inner plane
 planeAlignment: All
 planeName: Elemental Plane of Air
-planeNameAlt: - 
+planeNameAlt:
 planeOrder: 20
 ---
+
 # Elemental Plane of Air
 *Plane information for Elemental Plane of Air*
 
-**Alternate Name:**  - 
+**Alternate Name:**  -
 **Alignment:**  All
 **Inhabitants:** Air Elementals
 

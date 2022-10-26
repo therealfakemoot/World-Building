@@ -5,14 +5,14 @@ fileType: plane
 planeType: Inner plane
 planeAlignment: All
 planeName: Elemental Plane of Earth
-planeNameAlt: - 
+planeNameAlt:
 planeOrder: 20
 ---
 # Elemental Plane of Earth
 *Plane information for Elemental Plane of Earth*
 
 **Alternate Name:**  All
-**Alignment:**  - 
+**Alignment:**  -
 **Inhabitants:** Earth Elementals
 
 **Description:**  The Plane of Earth is located in the Inner Planes and is the home for earth elementals, Dao, crushing stones and the rarest gems, minerals, and materials throughout the planes. This plane is the least hospitable of the Inner Planes, which many travelers might gawk at and point at the Plane of Fire as being the most dangerous, but the Plane of Earth is unmoving and does little to nothing to help travelers who appear here. Many inexperienced travelers can appear inside of this plane, finding themselves encased in rock, unable to move and suffocating as they are imprisoned; even if they are able to arrive in an open space, there is no natural air to breathe.
@@ -118,14 +118,14 @@ Apart from the elemental spirits, there are also Mephits, Galeb Duhr, Xorn and a
 # Encounters
 
 -   **Fossil** - While journeying through the plane, you stumble across the fossilized remains of a dead tiefling. In its hands is an old journal giving vague details of the location of hidden treasures in the Plane of Earth.
-    
+
 -   **Xorn Demands** - An Xorn steps out of the wall in front of you and is demanding payment in gems. If you refuse or are too stingy in payment, it is threatening to collapse the tunnel on you. If attacked, it has more of its kind hiding beneath the feet of the party, waiting to strike.
-    
+
 -   **Earthquake** - An earthquake is sweeping across the Plane of Earth, causing cave-ins and tunnel collapses. The party must either outrun the collapsing tunnel behind them or find some way to survive being buried alive.
-    
+
 -   **Enslavement** - The Dao are insisting you have trespassed on their lands and you are to now repay this infraction by being slaves for the next 10 years. They are open to being bribe, though they will take a low bribe as an insult and add another 10 years to the sentence.
-    
+
 -   **Rat Problem** - While in the Great Dismal Delve, the innkeeper has hired you to deal with a ‘rat’ problem in the basement. Mephits have taken up residence in the basement and are destroying and eating everything they can find.
-    
+
 -   **Thief** - Someone in your group has stolen a jewel near the outskirts of the Great Dismal Delve and Dao from all over are bearing down on you, their large stone mauls raised high as they give out commands in their deep voices. Everyone in the group will be killed as a demonstration for the next group of adventurers who wish to steal from the Dao.
 

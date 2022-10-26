@@ -5,7 +5,7 @@ name: Delrean
 locale: Forest
 climate: Temperate
 availability: Winter 80%
-abilityCheck: -
+abilityCheck:
 uses: {Uses}
 value: 3 sp/ 3 sp
 preparation: 1 hour

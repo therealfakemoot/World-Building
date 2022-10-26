@@ -5,13 +5,13 @@ fileType: plane
 planeType: Inner plane
 planeAlignment: All
 planeName: Elemental Plane of Water
-planeNameAlt: - 
+planeNameAlt:
 planeOrder: 20
 ---
 # Elemental Plane of Water
 *Plane information for Elemental Plane of Water*
 
-**Alternate Name:** - 
+**Alternate Name:** -
 **Alignment:** All
 **Inhabitants:** Water Elementals
 

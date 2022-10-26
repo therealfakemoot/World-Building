@@ -5,13 +5,13 @@ fileType: plane
 planeType: Inner plane
 planeAlignment: All
 planeName: Elemental Plane of Fire
-planeNameAlt: - 
+planeNameAlt:
 planeOrder: 20
 ---
 # Elemental Plane of Fire
 *Plane information for Elemental Plane of Fire*
 
-**Alternate Name:**  - 
+**Alternate Name:**  -
 **Alignment:**  All
 **Inhabitants:** Fire Elementals
 

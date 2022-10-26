@@ -5,7 +5,7 @@ name: Maruera
 locale: Mountains
 climate: Subtropical and Tropical
 availability: Spring, Summer 1%
-abilityCheck: -
+abilityCheck:
 uses: {Uses}
 value: 50 gp (each)/ 50 gp (each) or 100 gp for gum
 preparation: none (or 1 week)

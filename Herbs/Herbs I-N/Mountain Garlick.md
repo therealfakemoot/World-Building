@@ -5,7 +5,7 @@ name: Mountain_Garlick
 locale: Mountains
 climate: Temperate, Cold
 availability: Always 30%
-abilityCheck: ?
+abilityCheck:
 uses: {Uses}
 value: 8 gp/ 9 gp
 preparation: 1 day

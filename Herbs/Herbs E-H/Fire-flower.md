@@ -5,7 +5,7 @@ name: Fire-flower
 locale: Mountains
 climate: Subtropical, Tropical
 availability: Summer 1%
-abilityCheck: -
+abilityCheck:
 uses: {Uses}
 value: 1000 gp/ 100000 gp
 preparation: 10 years

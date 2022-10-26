@@ -5,7 +5,7 @@ name: Calcena_Mushroom
 locale: Underworld
 climate: Any
 availability: Always 2%
-abilityCheck: -
+abilityCheck:
 uses: {Uses}
 value: 100 gp/ 1000 gp (for potion)
 preparation: 2 week (for potion)

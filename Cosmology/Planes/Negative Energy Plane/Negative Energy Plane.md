@@ -5,7 +5,7 @@ fileType: plane
 planeType: Inner plane
 planeAlignment: All
 planeName: Negative Energy Plane
-planeNameAlt: -
+planeNameAlt:
 planeOrder: 20.3
 ---
 # Negative Energy Plane

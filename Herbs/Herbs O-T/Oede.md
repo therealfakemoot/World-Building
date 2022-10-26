@@ -5,7 +5,7 @@ name: Oede
 locale: Rural
 climate: Temperate
 availability: Spring 1%
-abilityCheck: ?
+abilityCheck:
 uses: {Uses}
 value: 1000 gp/ 10000 gp
 preparation: 2 weeks (to dry)
